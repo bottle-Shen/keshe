@@ -1,0 +1,5 @@
+renderUsername()
+
+checkLogin()
+
+registerLogout()
